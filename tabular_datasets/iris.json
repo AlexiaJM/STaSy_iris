@@ -1,0 +1,39 @@
+{
+    "columns": [
+        {
+            "max": 7.9, 
+            "min": 4.3, 
+            "name": "sepalLength", 
+            "type": "continuous"
+        }, 
+        {
+            "max": 4.4, 
+            "min": 2.0, 
+            "name": "sepalWidth", 
+            "type": "continuous"
+        }, 
+        {
+            "max": 6.9, 
+            "min": 1.0, 
+            "name": "petalLength", 
+            "type": "continuous"
+        }, 
+        {
+            "max": 2.5, 
+            "min": 0.0, 
+            "name": "petalWidth", 
+            "type": "continuous"
+        }, 
+        {
+            "i2s": [
+                "0", 
+                "1", 
+                "2"
+            ], 
+            "name": "species", 
+            "size": 3, 
+            "type": "categorical"
+        }
+    ], 
+    "problem_type": "multiclass_classification"
+}

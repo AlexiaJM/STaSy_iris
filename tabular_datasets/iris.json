@@ -20,7 +20,7 @@
         }, 
         {
             "max": 2.5, 
-            "min": 0.0, 
+            "min": 0.1, 
             "name": "petalWidth", 
             "type": "continuous"
         }, 

@@ -30,7 +30,7 @@
                 "1", 
                 "2"
             ], 
-            "name": "species", 
+            "name": "label", 
             "size": 3, 
             "type": "categorical"
         }
